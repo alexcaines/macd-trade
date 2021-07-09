@@ -1,0 +1,6 @@
+websocket
+json
+talib
+numpy
+binance.client
+binance.enums
